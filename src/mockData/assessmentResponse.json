@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "message": "Assessment submitted successfully",
+  "requestId": "cle1::c564z-1753924961025-49ffd10ca086",
+  "results": {
+    "score": 16.805555555555557,
+    "percentage": 17,
+    "status": "FAIL",
+    "breakdown": {
+      "high_risk": {
+        "score": 5,
+        "max": 50,
+        "correct": 20,
+        "submitted": 2,
+        "matches": 2
+      },
+      "fever": {
+        "score": 6,
+        "max": 25,
+        "correct": 9,
+        "submitted": 2,
+        "matches": 2
+      },
+      "data_quality": {
+        "score": 6,
+        "max": 25,
+        "correct": 8,
+        "submitted": 2,
+        "matches": 2
+      }
+    },
+    "feedback": {
+      "strengths": [],
+      "issues": [
+        "🔄 High-risk patients: 2/20 correct, but 18 missed",
+        "🔄 Fever patients: 2/9 correct, but 7 missed",
+        "🔄 Data quality issues: 2/8 correct, but 6 missed"
+      ]
+    },
+    "attempt_number": 1,
+    "max_attempts": 3,
+    "remaining_attempts": 2,
+    "is_personal_best": true,
+    "best_score": 17,
+    "best_attempt_number": 1,
+    "can_resubmit": true,
+    "processed_in_ms": 207
+  }
+}

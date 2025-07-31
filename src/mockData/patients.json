@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "patient_id": "DEMO001",
+      "name": "TestPatient, John",
+      "age": 45,
+      "gender": "M",
+      "blood_pressure": "120/80",
+      "temperature": 98.6,
+      "visit_date": "2024-01-15",
+      "diagnosis": "Sample_Hypertension",
+      "medications": "DemoMed_A 10mg, TestDrug_B 500mg"
+    },
+    {
+      "patient_id": "DEMO002",
+      "name": "AssessmentUser, Jane",
+      "age": 67,
+      "gender": "F",
+      "blood_pressure": "140/90",
+      "temperature": 99.2,
+      "visit_date": "2024-01-16",
+      "diagnosis": "Eval_Diabetes",
+      "medications": "FakeMed 1000mg"
+    },
+    {
+      "patient_id": "DEMO003",
+      "name": "Smith, Robert",
+      "age": 78,
+      "gender": "M",
+      "blood_pressure": "160/95",
+      "temperature": 100.8,
+      "visit_date": "2024-01-17",
+      "diagnosis": "Multiple_Conditions",
+      "medications": "TestMed_C 5mg, SampleDrug_D 100mg"
+    },
+    {
+      "patient_id": "DEMO004",
+      "name": "Johnson, Emily",
+      "age": 32,
+      "gender": "F",
+      "blood_pressure": "110/70",
+      "temperature": 98.4,
+      "visit_date": "2024-01-18",
+      "diagnosis": "Healthy_Checkup",
+      "medications": "None"
+    },
+    {
+      "patient_id": "DEMO005",
+      "name": "Williams, Michael",
+      "age": 55,
+      "gender": "M",
+      "blood_pressure": "135/85",
+      "temperature": 101.5,
+      "visit_date": "2024-01-19",
+      "diagnosis": "Test_Infection",
+      "medications": "Antibiotic_Demo 500mg"
+    },
+    {
+      "patient_id": "DEMO006",
+      "name": "Brown, Sarah",
+      "age": null,
+      "gender": "F",
+      "blood_pressure": "125/82",
+      "temperature": 98.7,
+      "visit_date": "2024-01-20",
+      "diagnosis": "Routine_Exam",
+      "medications": "TestVitamin 1000IU"
+    },
+    {
+      "patient_id": "DEMO007",
+      "name": "Davis, James",
+      "age": 72,
+      "gender": "M",
+      "blood_pressure": "150/",
+      "temperature": 99.8,
+      "visit_date": "2024-01-21",
+      "diagnosis": "Incomplete_Data",
+      "medications": "SampleMed_E 20mg"
+    },
+    {
+      "patient_id": "DEMO008",
+      "name": "Miller, Lisa",
+      "age": 48,
+      "gender": "F",
+      "blood_pressure": "128/78",
+      "temperature": "TEMP_ERROR",
+      "visit_date": "2024-01-22",
+      "diagnosis": "Data_Error",
+      "medications": "TestDrug_F 10mg"
+    },
+    {
+      "patient_id": "DEMO009",
+      "name": "Wilson, David",
+      "age": "fifty-three",
+      "gender": null,
+      "blood_pressure": "130/85",
+      "temperature": 100.2,
+      "visit_date": "2024-01-23",
+      "diagnosis": "Invalid_Age_Format",
+      "medications": "DemoMed_G 15mg"
+    },
+    {
+      "patient_id": "DEMO010",
+      "name": "Moore, Patricia",
+      "age": 35,
+      "gender": "F",
+      "blood_pressure": "INVALID",
+      "temperature": 98.9,
+      "visit_date": "2024-01-24",
+      "diagnosis": "BP_Error",
+      "medications": "TestPill_H 50mg"
+    },
+    {
+      "patient_id": "DEMO011",
+      "name": "Taylor, Christopher",
+      "age": 82,
+      "gender": "M",
+      "blood_pressure": "165/100",
+      "temperature": 102.1,
+      "visit_date": "2024-01-25",
+      "diagnosis": "High_Risk_Demo",
+      "medications": "Multiple_TestMeds"
+    },
+    {
+      "patient_id": "DEMO012",
+      "name": "Anderson, Nancy",
+      "age": 58,
+      "gender": "F",
+      "blood_pressure": "/80",
+      "temperature": 98.5,
+      "visit_date": "2024-01-26",
+      "diagnosis": "Missing_Systolic",
+      "medications": "SampleDrug_I 25mg"
+    },
+    {
+      "patient_id": "DEMO013",
+      "name": "Thomas, William",
+      "age": 75,
+      "gender": "M",
+      "blood_pressure": "145/92",
+      "temperature": 99.7,
+      "visit_date": "2024-01-27",
+      "diagnosis": "Eval_Hypertension",
+      "medications": "TestMed_J 40mg"
+    },
+    {
+      "patient_id": "DEMO014",
+      "name": "Jackson, Jennifer",
+      "age": 41,
+      "gender": "F",
+      "blood_pressure": "118/76",
+      "temperature": null,
+      "visit_date": "2024-01-28",
+      "diagnosis": "Missing_Temp",
+      "medications": "DemoVitamin_K"
+    },
+    {
+      "patient_id": "DEMO015",
+      "name": "White, Richard",
+      "age": 68,
+      "gender": "M",
+      "blood_pressure": null,
+      "temperature": 100.5,
+      "visit_date": "2024-01-29",
+      "diagnosis": "Missing_BP",
+      "medications": "TestDrug_L 75mg"
+    },
+    {
+      "patient_id": "DEMO016",
+      "name": "Martin, Karen",
+      "age": 52,
+      "gender": "F",
+      "blood_pressure": "122/78",
+      "temperature": 98.8,
+      "visit_date": "2024-01-30",
+      "diagnosis": "Routine_Demo",
+      "medications": "SampleMed_M 30mg"
+    },
+    {
+      "patient_id": "DEMO017",
+      "name": "Thompson, George",
+      "age": 80,
+      "gender": "M",
+      "blood_pressure": "170/105",
+      "temperature": 99.9,
+      "visit_date": "2024-01-31",
+      "diagnosis": "Critical_Demo",
+      "medications": "Multiple_Test_Drugs"
+    },
+    {
+      "patient_id": "DEMO018",
+      "name": "Garcia, Maria",
+      "age": 38,
+      "gender": "F",
+      "blood_pressure": "N/A",
+      "temperature": 98.6,
+      "visit_date": "2024-02-01",
+      "diagnosis": "BP_NotAvailable",
+      "medications": "TestPill_N 20mg"
+    },
+    {
+      "patient_id": "DEMO019",
+      "name": "Rodriguez, Jose",
+      "age": "unknown",
+      "gender": "M",
+      "blood_pressure": "138/88",
+      "temperature": 101.2,
+      "visit_date": "2024-02-02",
+      "diagnosis": "Unknown_Age",
+      "medications": "DemoAntibiotic_O"
+    },
+    {
+      "patient_id": "DEMO020",
+      "name": "Martinez, Ana",
+      "age": 64,
+      "gender": "F",
+      "blood_pressure": "155/95",
+      "temperature": "invalid",
+      "visit_date": "2024-02-03",
+      "diagnosis": "Invalid_Temp",
+      "medications": "TestMed_P 60mg"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 20,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrevious": false
+  },
+  "metadata": {
+    "timestamp": "2025-01-28T10:00:00.000Z",
+    "version": "v1.0",
+    "requestId": "123"
+  }
+}
